@@ -32,7 +32,8 @@
                                   "MyQueue",
                                   "Arn"
                               ]
-                          }
+                          },
+                          "Principal": "*"
                       }
                   ]
               },
